@@ -1,11 +1,27 @@
 {
-  "featured_channels": [
-    "Parmar SSC",
-    "Drishti IAS",
-    "RBE SSC",
-    "Adda247",
-    "SSC Maker",
-    "Physics Wallah"
+  "selected_page_title": "UPSC PREPARATION",
+  "chip_all": "Parmar SSC Drishti IAS Gagan Pratap",
+  "selected_page_channels": [
+    {
+      "name": "Parmar SSC",
+      "url": "https://www.youtube.com/@ParmarSSC",
+      "avatar": "ParmarSSC"
+    },
+    {
+      "name": "Adda247",
+      "url": "https://www.youtube.com/@Adda247",
+      "avatar": "Adda247"
+    },
+    {
+      "name": "SSCMaker",
+      "url": "https://www.youtube.com/@SSCMaker",
+      "avatar": "SSCMaker"
+    },
+    {
+      "name": "Physics Wallah",
+      "url": "https://www.youtube.com/@PhysicsWallah",
+      "avatar": "PhysicsWallah"
+    }
   ],
-  "chip_all": "Parmar SSC Drishti IAS Gagan Pratap"
+  "selected_page_banners": []
 }
