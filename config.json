@@ -30,7 +30,7 @@
   "feed": {
     "max_channels": 25,
     "min_duration_seconds": 90,
-    "sort": "mixed"
+    "sort": "newest"
   },
   "selected_page_banners": [
     {
