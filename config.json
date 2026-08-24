@@ -1,6 +1,5 @@
 {
   "selected_page_title": "UPSC PREPARATION",
-  "chip_all": "Parmar SSC Drishti IAS Gagan Pratap",
   "selected_page_channels": [
     {
       "name": "Parmar SSC",
@@ -23,5 +22,16 @@
       "avatar": "PhysicsWallah"
     }
   ],
-  "selected_page_banners": []
+  "feed": {
+    "max_channels": 25,
+    "min_duration_seconds": 90,
+    "sort": "mixed"
+  },
+  "selected_page_banners": [
+    {
+      "image": "https://raw.githubusercontent.com/hiremesaurabhsharma-sketch/revive/main/banner1.jpg",
+      "link": ""
+    }
+  ],
+  "_disabled_channels": []
 }
