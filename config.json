@@ -42,5 +42,11 @@
       "link": "https://padhakumonk.in/"
     }
   ],
+  "social_links": [],
+  "update_notice": {
+    "enabled": true,
+    "message": "new update available dost",
+    "link": "https://t.me/zedoxprime2/134"
+  },
   "_disabled_channels": []
 }
