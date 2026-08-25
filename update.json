@@ -1,0 +1,9 @@
+{
+  "flavors": {
+    "newpipe": {
+      "version": "0.29.1",
+      "version_code": 1016,
+      "apk": "https://github.com/hiremesaurabhsharma-sketch/revive/releases/download/v0.29.1/app-release.apk"
+    }
+  }
+}
