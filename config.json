@@ -78,7 +78,7 @@
     }
   ],
   "feed": {
-    "max_channels": 25,
+    "max_channels": 9,
     "min_duration_seconds": 90,
     "sort": "newest"
   },
