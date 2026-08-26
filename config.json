@@ -32,16 +32,7 @@
     "min_duration_seconds": 90,
     "sort": "newest"
   },
-  "selected_page_banners": [
-    {
-      "image": "https://raw.githubusercontent.com/hiremesaurabhsharma-sketch/revive/main/banner1.jpg",
-      "link": ""
-    },
-    {
-      "image": "https://raw.githubusercontent.com/hiremesaurabhsharma-sketch/revive/main/banner2.jpg",
-      "link": "https://padhakumonk.in/"
-    }
-  ],
+  "selected_page_banners": [],
   "social_links": [],
   "update_notice": {
     "enabled": true,
