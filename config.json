@@ -35,7 +35,7 @@
   "selected_page_banners": [],
   "social_links": [],
   "update_notice": {
-    "enabled": true,
+    "enabled": false,
     "message": "new update available dost",
     "link": "https://t.me/zedoxprime2/134"
   },
