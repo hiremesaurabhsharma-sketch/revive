@@ -2,6 +2,11 @@
   "selected_page_title": "Education",
   "selected_page_channels": [
     {
+      "name": "Drishti IASvideos",
+      "url": "https://www.youtube.com/@DrishtiIASvideos",
+      "avatar": "DrishtiIASvideos"
+    },
+    {
       "name": "Parmar SSC",
       "url": "https://www.youtube.com/@ParmarSSC",
       "avatar": "ParmarSSC"
