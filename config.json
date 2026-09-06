@@ -22,11 +22,6 @@
       "avatar": "Testbook"
     },
     {
-      "name": "Career247Official",
-      "url": "https://www.youtube.com/@Career247Official",
-      "avatar": "Career247Official"
-    },
-    {
       "name": "Adda247",
       "url": "https://www.youtube.com/@Adda247",
       "avatar": "Adda247"
@@ -89,5 +84,11 @@
     "message": "UPDATE THE APP 🤖🤖 (SORRY APP IS FREE) 😊😊",
     "link": "https://t.me/padhakutube"
   },
-  "_disabled_channels": []
+  "_disabled_channels": [
+    {
+      "name": "Career247Official",
+      "url": "https://www.youtube.com/@Career247Official",
+      "avatar": "Career247Official"
+    }
+  ]
 }
