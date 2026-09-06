@@ -22,6 +22,11 @@
       "avatar": "Testbook"
     },
     {
+      "name": "Career247Official",
+      "url": "https://www.youtube.com/@Career247Official",
+      "avatar": "Career247Official"
+    },
+    {
       "name": "Adda247",
       "url": "https://www.youtube.com/@Adda247",
       "avatar": "Adda247"
@@ -80,15 +85,9 @@
   "selected_page_banners": [],
   "social_links": [],
   "update_notice": {
-    "enabled": false,
-    "message": "UPDATE THE APP 🤖🤖 (SORRY APP IS FREE) 😊😊",
+    "enabled": true,
+    "message": "Update the app and be connected 😊😊",
     "link": "https://t.me/padhakutube"
   },
-  "_disabled_channels": [
-    {
-      "name": "Career247Official",
-      "url": "https://www.youtube.com/@Career247Official",
-      "avatar": "Career247Official"
-    }
-  ]
+  "_disabled_channels": []
 }
